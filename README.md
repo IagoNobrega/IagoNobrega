@@ -1,5 +1,5 @@
 ### Olá! Eu sou Iago Nobrega 😊
-### Estou Graduando em : Análise e Desenv. de Sistemas💻
+###  Análise e Desenv. de Sistemas💻
 ### Focado em aprender: Analista de Qualidade Software 🫶
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-nobrega-38087a208/)
 [![Instragran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iagonaraujo14/)
