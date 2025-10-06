@@ -15,3 +15,10 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=whit)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoNobrega&layout=donut)](https://github.com/IagoNobrega/github-readme-stats)
+
+
+#
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/021berlim/021berlim/output/snake.svg" alt="Snake animation" />
+</div>
