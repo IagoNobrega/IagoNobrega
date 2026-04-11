@@ -1,7 +1,7 @@
 <h1 align="center">Iago Nóbrega</h1>
 
 <p align="center">
-  <img src="assets/banner.png" width="100%" />
+  <img src="assets/digital.png" width="100%" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <h2>Sobre mim</h2>
 
-<img align="left" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="180" style="margin-right: 20px;" />
+<img align="left" src="assets/brain.png" width="180" style="margin-right: 20px;" />
 
 <p>
 Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> com foco em 
