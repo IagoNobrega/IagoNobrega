@@ -1,4 +1,3 @@
-<h1 align="center">Iago Nóbrega</h1>
 
 <p align="center">
   <img src="assets/digital.png" width="100%" />
@@ -21,7 +20,7 @@
 <img align="left" src="assets/brain.png" width="180" style="margin-right: 20px;" />
 
 <p>
-Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> com foco em 
+Sou Graduado em  <strong>Análise e Desenvolvimento de Sistemas</strong> com foco em 
 <strong>Qualidade de Software (QA)</strong> e <strong>Backend com Java</strong>.
 </p>
 
