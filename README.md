@@ -66,7 +66,7 @@ Tenho experiência com suporte técnico e testes de software, atuando na identif
 
 🚀 Em construção:
 - Framework de automação com Selenium + Java  
-- Testes E2E com Cypress  
+- Testes E2E com Cypress/Playwright  
 - API REST com Spring Boot  
 
 ---
